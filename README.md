@@ -10,8 +10,7 @@ Son funciones definidas de tal forma que, que por su importancia en el campo del
 <h4 style="font-size:16px;color:#FF7F00">Funcion gamma</h4>
 
 Generaliza el factorial para los reales y complejos
-$$
-\bold{
+$$\bold{
 \Gamma(n) = \int_{0}^{\infty} {x^{n-1} e^{-x} dx} } \\[6ex]
 
 \text{Propiedades} \\[3ex]
@@ -22,8 +21,7 @@ $$
 \Gamma \left( \frac{1}{2} \right) = \sqrt{\pi} \\[2ex]
 \lim_{k \rightarrow 0} \Gamma (k) =\pm \infty \\[2ex]
 \Gamma(k) \Gamma(1-k) = \frac{\pi}{\sin(k \pi)}  \\[2ex]
-k \text{ es fraccionario con denominador distinto de 2}
-$$
+k \text{ es fraccionario con denominador distinto de 2}$$
 
 <br>
 
